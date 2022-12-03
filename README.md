@@ -4,7 +4,7 @@ Create an ingress that directs the traffic to the correct service:
   -  One that represent Bitcoin Price
   -  Second one that represents Ynet news
 
-First We had to Dockerize Previes homeworks and push the images into DockerHub
+First We had to Dockerize previous homeworks and push the images into DockerHub
 
 ![alt text](https://github.com/Samer99Najjar/K8S-FinalTask/blob/main/dockerhubimg.PNG)
 
