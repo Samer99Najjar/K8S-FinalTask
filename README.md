@@ -32,7 +32,9 @@ You should get similar status to that of mine :
 
 ## Deploy enginx
 > minikube start
+
 > minikube addons enable ingress
+
 > minikube tunnel
  
 ## Open Ynet LocalHost 
